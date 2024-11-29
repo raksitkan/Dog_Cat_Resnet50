@@ -50,8 +50,9 @@ Modify hyperparameters, architecture, or data processing steps in the notebook a
 ## **Acknowledgments**  
 - **ResNet50** model pre-trained on ImageNet  
 - **Oxford-IIIT Pet Dataset**
-- **PyTorch for Deep Learning Bootcamp By udemy
+- **PyTorch for Deep Learning Bootcamp By udemy**
 - Deployment powered by Hugging Face Spaces
+- **special thanks teacher** [https://x.com/mrdbourke]
 - [https://github.com/mrdbourke/pytorch-deep-learning.git].  
 
 For questions or contributions, feel free to contact [raksitkan0072@gmail.com].  
