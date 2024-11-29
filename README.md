@@ -1,5 +1,3 @@
-นี่คือ README ที่ปรับปรุงตามคำขอของคุณ:  
-
 ---
 
 # Fine-Tuning ResNet50 on Oxford-IIIT Pet Dataset  
